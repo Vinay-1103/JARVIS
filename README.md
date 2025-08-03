@@ -46,18 +46,4 @@ To create a smart desktop assistant that understands voice commands and performs
 - "Who is Elon Musk?"  
 - "Answer using ChatGPT"
 
----
-
-## 📂 How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/Vinay-1103/JARVIS.git
-cd JARVIS
-
-# Install required packages
-pip install -r requirements.txt
-
-# Run the assistant
-python jarvis.py
 
