@@ -6,6 +6,7 @@ import google.generativeai as genai
 import os
 import pywhatkit
 
+
 # pip install pocketsphinx
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
@@ -100,4 +101,5 @@ if __name__ == "__main__" :
 
             
         except Exception as e:
+
             print("error; {0}".format(e))
